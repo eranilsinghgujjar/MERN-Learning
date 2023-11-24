@@ -24,3 +24,10 @@
 
  ## Frameworks and Tools: 
  Node.js has several frameworks and tools like Express.js, NestJS, and Socket.io that simplify web development and enhance productivity.
+
+# Let's Start NodeJS
+## 1. Download NodeJS from https://nodejs.org/en/download
+## 2. Download npm (Node Package Manager): Open Command Prompt and 
+``` npm install -g npm
+## 3. Verify version:
+``` node -v && npm -v
